@@ -3,3 +3,6 @@
 
 
 Hmmm...Giant Ganandorf
+
+What just happened?
+
