@@ -1,0 +1,789 @@
+,Prices,City
+0,6995.0,Dallas
+1,21477.0,Dallas
+2,89995.0,Dallas
+3,110.0,Dallas
+4,11026.0,Dallas
+5,3500.0,Dallas
+6,29000.0,Dallas
+7,15700.0,Dallas
+8,3500.0,Dallas
+9,14995.0,Dallas
+10,13500.0,Dallas
+11,21900.0,Dallas
+12,61100.0,Dallas
+13,38995.0,Dallas
+14,79995.0,Dallas
+15,88744.0,Dallas
+16,32600.0,Dallas
+17,21500.0,Dallas
+18,115.0,Dallas
+19,61100.0,Dallas
+20,9800.0,Dallas
+21,53300.0,Dallas
+22,22500.0,Dallas
+23,28477.0,Dallas
+24,55.0,Dallas
+25,55.0,Dallas
+26,15995.0,Dallas
+27,54900.0,Dallas
+28,59995.0,Dallas
+29,48995.0,Dallas
+30,54800.0,Dallas
+31,31500.0,Dallas
+32,27595.0,Dallas
+33,19995.0,Dallas
+34,87395.0,Dallas
+35,139997.0,Dallas
+36,4000.0,Dallas
+37,61300.0,Dallas
+38,29997.0,Dallas
+39,35777.0,Dallas
+40,69995.0,Dallas
+41,27700.0,Dallas
+42,21700.0,Dallas
+43,15997.0,Dallas
+44,66995.0,Dallas
+45,24500.0,Dallas
+46,14995.0,Dallas
+47,1.0,Dallas
+48,21447.0,Dallas
+49,150.0,Dallas
+50,17227.0,Dallas
+51,110652.0,Dallas
+52,8500.0,Dallas
+53,184997.0,Dallas
+54,26977.0,Dallas
+55,49250.0,Dallas
+56,49250.0,Dallas
+57,49500.0,Dallas
+58,482500.0,Dallas
+59,12000.0,Dallas
+60,22900.0,Dallas
+61,6990.0,Dallas
+62,63900.0,Dallas
+63,75.0,Dallas
+64,19900.0,Dallas
+0,8614.0,Houston
+1,25987.0,Houston
+2,27500.0,Houston
+3,6900.0,Houston
+4,18239.0,Houston
+5,18500.0,Houston
+6,18500.0,Houston
+7,1.0,Houston
+8,64946.0,Houston
+9,7000.0,Houston
+10,1800.0,Houston
+11,17500.0,Houston
+12,18800.0,Houston
+13,22898.0,Houston
+14,8995.0,Houston
+15,5250.0,Houston
+16,4000.0,Houston
+17,13164.0,Houston
+18,5200.0,Houston
+19,23896.0,Houston
+20,11979.0,Houston
+21,26838.0,Houston
+22,5000.0,Houston
+23,10648.0,Houston
+24,64946.0,Houston
+25,25000.0,Houston
+26,71500.0,Houston
+27,29898.0,Houston
+28,6500.0,Houston
+29,18987.0,Houston
+30,125.0,Houston
+31,14500.0,Houston
+32,575.0,Houston
+33,36653.0,Houston
+34,29995.0,Houston
+35,350.0,Houston
+36,9800.0,Houston
+37,1100.0,Houston
+38,16500.0,Houston
+39,25893.0,Houston
+40,16000.0,Houston
+41,11850.0,Houston
+42,10000.0,Houston
+43,650.0,Houston
+44,9888.0,Houston
+45,25987.0,Houston
+46,100.0,Houston
+47,110000.0,Houston
+48,2000.0,Houston
+49,9985.0,Houston
+50,21995.0,Houston
+51,63900.0,Houston
+52,20900.0,Houston
+53,6990.0,Houston
+54,15510.0,Houston
+55,19398.0,Houston
+56,8950.0,Houston
+57,18900.0,Houston
+58,12300.0,Houston
+59,22995.0,Houston
+60,5100.0,Houston
+61,34995.0,Houston
+62,20495.0,Houston
+63,99995.0,Houston
+64,15900.0,Houston
+65,17995.0,Houston
+66,24995.0,Houston
+67,28146.0,Houston
+68,77000.0,Houston
+69,77000.0,Houston
+70,77000.0,Houston
+71,49000.0,Houston
+72,77000.0,Houston
+73,3900.0,Houston
+74,39995.0,Houston
+0,1500.0,New York
+1,700.0,New York
+2,2009.0,New York
+3,6200.0,New York
+4,11500.0,New York
+5,39900.0,New York
+6,1999.0,New York
+7,33000.0,New York
+8,27650.0,New York
+9,33000.0,New York
+10,36500.0,New York
+11,19500.0,New York
+12,26500.0,New York
+13,36500.0,New York
+14,2420.0,New York
+15,3750.0,New York
+16,172500.0,New York
+17,33000.0,New York
+18,33000.0,New York
+19,33000.0,New York
+20,27650.0,New York
+21,36500.0,New York
+22,36500.0,New York
+23,2500.0,New York
+24,20700.0,New York
+25,22995.0,New York
+26,39900.0,New York
+27,22995.0,New York
+28,22995.0,New York
+29,22995.0,New York
+30,20700.0,New York
+31,20700.0,New York
+32,36500.0,New York
+33,39900.0,New York
+34,39900.0,New York
+35,39900.0,New York
+36,39900.0,New York
+37,39900.0,New York
+38,20700.0,New York
+39,20700.0,New York
+40,16995.0,New York
+41,36500.0,New York
+42,1850.0,New York
+43,9800.0,New York
+44,172500.0,New York
+45,2000.0,New York
+46,3900.0,New York
+47,15.0,New York
+48,12000.0,New York
+49,8800.0,New York
+50,2515.0,New York
+51,37500.0,New York
+52,37500.0,New York
+53,5995.0,New York
+54,5995.0,New York
+0,900.0,Phoenix
+1,17000.0,Phoenix
+2,2500.0,Phoenix
+3,48595.0,Phoenix
+4,270.0,Phoenix
+5,22980.0,Phoenix
+6,545.0,Phoenix
+7,39750.0,Phoenix
+8,300.0,Phoenix
+9,14550.0,Phoenix
+10,36250.0,Phoenix
+11,42000.0,Phoenix
+12,339.0,Phoenix
+13,32000.0,Phoenix
+14,11900.0,Phoenix
+15,73164.0,Phoenix
+16,37900.0,Phoenix
+17,52900.0,Phoenix
+18,55900.0,Phoenix
+19,12999.0,Phoenix
+20,21499.0,Phoenix
+21,5.0,Phoenix
+22,11900.0,Phoenix
+23,35.0,Phoenix
+24,58900.0,Phoenix
+25,16900.0,Phoenix
+26,34980.0,Phoenix
+27,37445.0,Phoenix
+28,18995.0,Phoenix
+29,175.0,Phoenix
+30,205.0,Phoenix
+31,18995.0,Phoenix
+32,13.0,Phoenix
+33,246.0,Phoenix
+34,2600.0,Phoenix
+35,13.0,Phoenix
+36,32900.0,Phoenix
+37,14995.0,Phoenix
+38,50.0,Phoenix
+39,18999.0,Phoenix
+40,18995.0,Phoenix
+41,12999.0,Phoenix
+42,30000.0,Phoenix
+43,22595.0,Phoenix
+44,12999.0,Phoenix
+45,16999.0,Phoenix
+46,17999.0,Phoenix
+47,22999.0,Phoenix
+48,3900.0,Phoenix
+49,18499.0,Phoenix
+50,24950.0,Phoenix
+51,24950.0,Phoenix
+52,14995.0,Phoenix
+53,11900.0,Phoenix
+54,24950.0,Phoenix
+55,18995.0,Phoenix
+56,17999.0,Phoenix
+57,27900.0,Phoenix
+58,17999.0,Phoenix
+59,17999.0,Phoenix
+60,14999.0,Phoenix
+61,22900.0,Phoenix
+62,69900.0,Phoenix
+63,8000.0,Phoenix
+64,39900.0,Phoenix
+65,14995.0,Phoenix
+66,59900.0,Phoenix
+67,20999.0,Phoenix
+68,39900.0,Phoenix
+69,305.0,Phoenix
+70,15995.0,Phoenix
+71,29999.0,Phoenix
+72,11900.0,Phoenix
+73,2017.0,Phoenix
+74,275.0,Phoenix
+75,29999.0,Phoenix
+76,8950.0,Phoenix
+77,31996.0,Phoenix
+78,28900.0,Phoenix
+79,1350.0,Phoenix
+80,740.0,Phoenix
+81,700.0,Phoenix
+82,56900.0,Phoenix
+83,238.0,Phoenix
+84,11900.0,Phoenix
+85,53900.0,Phoenix
+86,272.0,Phoenix
+87,48913.0,Phoenix
+88,34900.0,Phoenix
+89,14995.0,Phoenix
+90,8995.0,Phoenix
+91,24500.0,Phoenix
+0,50.0,Los Angeles
+1,6500.0,Los Angeles
+2,18.0,Los Angeles
+3,8200.0,Los Angeles
+4,4000.0,Los Angeles
+5,16500.0,Los Angeles
+6,50.0,Los Angeles
+7,4600.0,Los Angeles
+8,80.0,Los Angeles
+9,36900.0,Los Angeles
+10,2189.0,Los Angeles
+11,9500.0,Los Angeles
+12,45.0,Los Angeles
+13,2000.0,Los Angeles
+14,1500.0,Los Angeles
+15,65975.0,Los Angeles
+16,63975.0,Los Angeles
+17,3500.0,Los Angeles
+18,49500.0,Los Angeles
+19,36500.0,Los Angeles
+20,23988.0,Los Angeles
+21,39995.0,Los Angeles
+22,31900.0,Los Angeles
+23,1625.0,Los Angeles
+24,6000.0,Los Angeles
+25,33000.0,Los Angeles
+26,48975.0,Los Angeles
+27,54500.0,Los Angeles
+28,1500.0,Los Angeles
+29,65.0,Los Angeles
+30,13999.0,Los Angeles
+31,13995.0,Los Angeles
+32,7500.0,Los Angeles
+33,1500.0,Los Angeles
+34,32900.0,Los Angeles
+35,26988.0,Los Angeles
+36,25.0,Los Angeles
+37,32000.0,Los Angeles
+38,800.0,Los Angeles
+39,6800.0,Los Angeles
+40,16500.0,Los Angeles
+41,205.0,Los Angeles
+42,6450.0,Los Angeles
+43,1500.0,Los Angeles
+44,14000.0,Los Angeles
+45,875.0,Los Angeles
+46,238.0,Los Angeles
+47,80.0,Los Angeles
+48,375.0,Los Angeles
+49,6500.0,Los Angeles
+50,14647.0,Los Angeles
+51,8500.0,Los Angeles
+52,5995.0,Los Angeles
+53,40975.0,Los Angeles
+54,28500.0,Los Angeles
+55,27495.0,Los Angeles
+56,28995.0,Los Angeles
+57,295.0,Los Angeles
+58,4100.0,Los Angeles
+59,12900.0,Los Angeles
+60,26965.0,Los Angeles
+61,1500.0,Los Angeles
+62,5999.0,Los Angeles
+63,4750.0,Los Angeles
+64,6850.0,Los Angeles
+65,4500.0,Los Angeles
+66,33000.0,Los Angeles
+67,60000.0,Los Angeles
+68,1500.0,Los Angeles
+69,30975.0,Los Angeles
+70,2351.0,Los Angeles
+71,2351.0,Los Angeles
+72,2351.0,Los Angeles
+73,2351.0,Los Angeles
+74,2351.0,Los Angeles
+75,2351.0,Los Angeles
+76,2351.0,Los Angeles
+77,5995.0,Los Angeles
+78,5995.0,Los Angeles
+79,5995.0,Los Angeles
+80,5995.0,Los Angeles
+81,5995.0,Los Angeles
+82,5995.0,Los Angeles
+83,5995.0,Los Angeles
+84,62500.0,Los Angeles
+85,5995.0,Los Angeles
+86,5995.0,Los Angeles
+87,5995.0,Los Angeles
+88,5995.0,Los Angeles
+89,5995.0,Los Angeles
+90,5995.0,Los Angeles
+91,5995.0,Los Angeles
+92,5995.0,Los Angeles
+0,1.0,Chicago
+1,9800.0,Chicago
+2,10500.0,Chicago
+3,41500.0,Chicago
+4,21500.0,Chicago
+5,225.0,Chicago
+6,500.0,Chicago
+7,18000.0,Chicago
+8,15000.0,Chicago
+9,23995.0,Chicago
+10,8495.0,Chicago
+11,8995.0,Chicago
+12,14595.0,Chicago
+13,7995.0,Chicago
+14,11595.0,Chicago
+15,14495.0,Chicago
+16,9295.0,Chicago
+17,5200.0,Chicago
+18,14900.0,Chicago
+19,17966.0,Chicago
+20,17995.0,Chicago
+21,12995.0,Chicago
+22,16500.0,Chicago
+23,11995.0,Chicago
+24,20966.0,Chicago
+25,6795.0,Chicago
+26,22966.0,Chicago
+27,11988.0,Chicago
+28,16900.0,Chicago
+29,14866.0,Chicago
+30,22966.0,Chicago
+31,2000.0,Chicago
+32,21996.0,Chicago
+33,30930.0,Chicago
+34,29335.0,Chicago
+35,26974.0,Chicago
+36,26930.0,Chicago
+37,27430.0,Chicago
+38,26975.0,Chicago
+39,6000.0,Chicago
+40,31405.0,Chicago
+41,46995.0,Chicago
+42,21715.0,Chicago
+43,19415.0,Chicago
+44,11014.0,Chicago
+45,785.0,Chicago
+46,42500.0,Chicago
+47,8900.0,Chicago
+48,18800.0,Chicago
+49,10500.0,Chicago
+50,6800.0,Chicago
+51,26800.0,Chicago
+52,13900.0,Chicago
+53,16500.0,Chicago
+54,89990.0,Chicago
+55,11000.0,Chicago
+56,15.0,Chicago
+57,174900.0,Chicago
+58,600.0,Chicago
+59,7950.0,Chicago
+60,3000.0,Chicago
+61,199.0,Chicago
+62,250.0,Chicago
+63,199.0,Chicago
+64,250.0,Chicago
+65,3500.0,Chicago
+66,1000.0,Chicago
+0,65999.0,San Jose
+1,10000.0,San Jose
+2,2000.0,San Jose
+3,159995.0,San Jose
+4,1200.0,San Jose
+5,34944.0,San Jose
+6,15500.0,San Jose
+7,14500.0,San Jose
+8,31867.0,San Jose
+9,26345.0,San Jose
+10,35000.0,San Jose
+11,59990.0,San Jose
+12,89995.0,San Jose
+13,80.0,San Jose
+14,997.0,San Jose
+15,75000.0,San Jose
+16,5299.0,San Jose
+17,47750.0,San Jose
+18,88968.0,San Jose
+19,35000.0,San Jose
+20,33993.0,San Jose
+21,22900.0,San Jose
+22,18500.0,San Jose
+23,12490.0,San Jose
+24,19900.0,San Jose
+25,24900.0,San Jose
+26,85955.0,San Jose
+27,28900.0,San Jose
+28,29900.0,San Jose
+29,272.0,San Jose
+30,79900.0,San Jose
+31,42995.0,San Jose
+32,39900.0,San Jose
+33,59995.0,San Jose
+34,2995.0,San Jose
+35,104900.0,San Jose
+36,96500.0,San Jose
+37,87900.0,San Jose
+38,19900.0,San Jose
+39,69900.0,San Jose
+40,36896.0,San Jose
+41,109995.0,San Jose
+42,50999.0,San Jose
+43,49900.0,San Jose
+44,9500.0,San Jose
+45,32900.0,San Jose
+46,21650.0,San Jose
+47,39997.0,San Jose
+48,84900.0,San Jose
+49,21900.0,San Jose
+50,159900.0,San Jose
+51,23993.0,San Jose
+52,79900.0,San Jose
+53,11000.0,San Jose
+54,29000.0,San Jose
+55,3500.0,San Jose
+56,94995.0,San Jose
+57,205.0,San Jose
+58,39995.0,San Jose
+59,22995.0,San Jose
+60,7500.0,San Jose
+61,32993.0,San Jose
+62,49995.0,San Jose
+63,21991.0,San Jose
+64,13997.0,San Jose
+65,32995.0,San Jose
+66,44995.0,San Jose
+67,35964.0,San Jose
+68,36900.0,San Jose
+69,2003.0,San Jose
+70,16996.0,San Jose
+71,54996.0,San Jose
+72,49999.0,San Jose
+73,19999.0,San Jose
+74,14499.0,San Jose
+75,49850.0,San Jose
+76,21650.0,San Jose
+77,17988.0,San Jose
+78,43868.0,San Jose
+79,14800.0,San Jose
+80,245.0,San Jose
+81,84995.0,San Jose
+0,750.0,San Diego
+1,18.0,San Diego
+2,3600.0,San Diego
+3,1200.0,San Diego
+4,22500.0,San Diego
+5,17500.0,San Diego
+6,9500.0,San Diego
+7,1100.0,San Diego
+8,16500.0,San Diego
+9,115.0,San Diego
+10,1.0,San Diego
+11,8500.0,San Diego
+12,309.0,San Diego
+13,39500.0,San Diego
+14,17995.0,San Diego
+15,110.0,San Diego
+16,149.0,San Diego
+17,115.0,San Diego
+18,110.0,San Diego
+19,149.0,San Diego
+20,13999.0,San Diego
+21,9995.0,San Diego
+22,18900.0,San Diego
+23,5000.0,San Diego
+24,150.0,San Diego
+25,45000.0,San Diego
+26,34000.0,San Diego
+27,3500.0,San Diego
+28,19995.0,San Diego
+29,15000.0,San Diego
+30,49995.0,San Diego
+31,35995.0,San Diego
+32,24995.0,San Diego
+33,39995.0,San Diego
+34,19500.0,San Diego
+35,29995.0,San Diego
+36,14588.0,San Diego
+37,15840.0,San Diego
+38,24995.0,San Diego
+39,99000.0,San Diego
+40,19995.0,San Diego
+41,24850.0,San Diego
+42,89995.0,San Diego
+43,19995.0,San Diego
+44,23995.0,San Diego
+45,19995.0,San Diego
+46,19995.0,San Diego
+47,19995.0,San Diego
+48,54995.0,San Diego
+49,24995.0,San Diego
+50,14995.0,San Diego
+51,89995.0,San Diego
+52,69995.0,San Diego
+53,29995.0,San Diego
+54,650.0,San Diego
+55,15500.0,San Diego
+56,5800.0,San Diego
+57,109.0,San Diego
+58,309.0,San Diego
+59,11900.0,San Diego
+60,79.0,San Diego
+61,109.0,San Diego
+62,1.0,San Diego
+63,5800.0,San Diego
+64,62900.0,San Diego
+65,3800.0,San Diego
+66,44995.0,San Diego
+67,300.0,San Diego
+68,34900.0,San Diego
+69,21900.0,San Diego
+70,10500.0,San Diego
+71,62500.0,San Diego
+72,39500.0,San Diego
+73,3995.0,San Diego
+74,5999.0,San Diego
+75,125.0,San Diego
+76,125.0,San Diego
+77,27000.0,San Diego
+78,57.0,San Diego
+79,3800.0,San Diego
+80,11000.0,San Diego
+81,37900.0,San Diego
+82,12500.0,San Diego
+83,28900.0,San Diego
+84,10000.0,San Diego
+85,13999.0,San Diego
+0,59999.0,Philadelphia
+1,19995.0,Philadelphia
+2,4200.0,Philadelphia
+3,850.0,Philadelphia
+4,10500.0,Philadelphia
+5,109995.0,Philadelphia
+6,5200.0,Philadelphia
+7,3200.0,Philadelphia
+8,6500.0,Philadelphia
+9,6500.0,Philadelphia
+10,5500.0,Philadelphia
+11,16500.0,Philadelphia
+12,2000.0,Philadelphia
+13,23975.0,Philadelphia
+14,6900.0,Philadelphia
+15,16995.0,Philadelphia
+16,4500.0,Philadelphia
+17,10000.0,Philadelphia
+18,9500.0,Philadelphia
+19,15505.0,Philadelphia
+20,118184.0,Philadelphia
+21,17000.0,Philadelphia
+22,8000.0,Philadelphia
+23,8200.0,Philadelphia
+24,7800.0,Philadelphia
+25,9200.0,Philadelphia
+26,19000.0,Philadelphia
+27,499.0,Philadelphia
+28,3000.0,Philadelphia
+29,2000.0,Philadelphia
+30,1700.0,Philadelphia
+31,9500.0,Philadelphia
+32,9900.0,Philadelphia
+33,62999.0,Philadelphia
+34,13999.0,Philadelphia
+35,14995.0,Philadelphia
+36,12000.0,Philadelphia
+37,5500.0,Philadelphia
+38,25000.0,Philadelphia
+39,8999.0,Philadelphia
+40,25105.0,Philadelphia
+41,25105.0,Philadelphia
+42,62900.0,Philadelphia
+43,37821.0,Philadelphia
+44,89999.0,Philadelphia
+45,6400.0,Philadelphia
+46,10151.0,Philadelphia
+47,675.0,Philadelphia
+48,74399.0,Philadelphia
+49,20180.0,Philadelphia
+50,19999.0,Philadelphia
+51,73.0,Philadelphia
+52,8500.0,Philadelphia
+53,11999.0,Philadelphia
+54,125596.0,Philadelphia
+55,2600.0,Philadelphia
+56,5600.0,Philadelphia
+57,3250.0,Philadelphia
+58,19750.0,Philadelphia
+59,303900.0,Philadelphia
+60,97056.0,Philadelphia
+61,239634.0,Philadelphia
+62,9995.0,Philadelphia
+63,29900.0,Philadelphia
+64,28284.0,Philadelphia
+65,40522.0,Philadelphia
+66,87040.0,Philadelphia
+67,37900.0,Philadelphia
+68,39145.0,Philadelphia
+69,36690.0,Philadelphia
+70,46902.0,Philadelphia
+71,6600.0,Philadelphia
+72,20.0,Philadelphia
+73,10.0,Philadelphia
+74,153900.0,Philadelphia
+75,67995.0,Philadelphia
+76,49500.0,Philadelphia
+77,52900.0,Philadelphia
+78,39561.0,Philadelphia
+79,23852.0,Philadelphia
+80,86184.0,Philadelphia
+81,86900.0,Philadelphia
+82,45993.0,Philadelphia
+83,15995.0,Philadelphia
+84,33995.0,Philadelphia
+85,2600.0,Philadelphia
+86,13005.0,Philadelphia
+87,250.0,Philadelphia
+88,9400.0,Philadelphia
+89,16500.0,Philadelphia
+90,2080.0,Philadelphia
+91,107772.0,Philadelphia
+0,22850.0,San Antonio
+1,27500.0,San Antonio
+2,14500.0,San Antonio
+3,25893.0,San Antonio
+4,49992.0,San Antonio
+5,22898.0,San Antonio
+6,29898.0,San Antonio
+7,11600.0,San Antonio
+8,49992.0,San Antonio
+9,13164.0,San Antonio
+10,49961.0,San Antonio
+11,31900.0,San Antonio
+12,8800.0,San Antonio
+13,40000.0,San Antonio
+14,9500.0,San Antonio
+15,24678.0,San Antonio
+16,27553.0,San Antonio
+17,22499.0,San Antonio
+18,49961.0,San Antonio
+19,19995.0,San Antonio
+20,29995.0,San Antonio
+21,18997.0,San Antonio
+22,200000.0,San Antonio
+23,86927.0,San Antonio
+24,64995.0,San Antonio
+25,34995.0,San Antonio
+26,18995.0,San Antonio
+27,25987.0,San Antonio
+28,64946.0,San Antonio
+29,19995.0,San Antonio
+30,8995.0,San Antonio
+31,48988.0,San Antonio
+32,11995.0,San Antonio
+33,29995.0,San Antonio
+34,22850.0,San Antonio
+35,15500.0,San Antonio
+36,48988.0,San Antonio
+37,12975.0,San Antonio
+38,21925.0,San Antonio
+39,6995.0,San Antonio
+40,6990.0,San Antonio
+41,21995.0,San Antonio
+42,24731.0,San Antonio
+43,12995.0,San Antonio
+44,65734.0,San Antonio
+45,82995.0,San Antonio
+46,12995.0,San Antonio
+47,65734.0,San Antonio
+48,12995.0,San Antonio
+49,46995.0,San Antonio
+50,23064.0,San Antonio
+51,8995.0,San Antonio
+52,14999.0,San Antonio
+53,29950.0,San Antonio
+54,18995.0,San Antonio
+55,62995.0,San Antonio
+56,29995.0,San Antonio
+57,28990.0,San Antonio
+58,15995.0,San Antonio
+59,21250.0,San Antonio
+60,10995.0,San Antonio
+61,22850.0,San Antonio
+62,18995.0,San Antonio
+63,31888.0,San Antonio
+64,21999.0,San Antonio
+65,10999.0,San Antonio
+66,22499.0,San Antonio
+67,11495.0,San Antonio
+68,54995.0,San Antonio
+69,10995.0,San Antonio
+70,19995.0,San Antonio
+71,19995.0,San Antonio
+72,29200.0,San Antonio
+73,14750.0,San Antonio
+74,10995.0,San Antonio
+75,8995.0,San Antonio
+76,35600.0,San Antonio
+77,11995.0,San Antonio
+78,92566.0,San Antonio
+79,34995.0,San Antonio
+80,29995.0,San Antonio
